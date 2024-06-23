@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator", "AreaCalcu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTests", "CalculatorTests\CalculatorTests.csproj", "{B349E964-1CBE-4BD4-9AE9-4609D4386516}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSSQL", "MSSSQL\MSSSQL.csproj", "{5D08662C-5CE3-4A64-8E05-64FE944CF821}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{B349E964-1CBE-4BD4-9AE9-4609D4386516}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B349E964-1CBE-4BD4-9AE9-4609D4386516}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B349E964-1CBE-4BD4-9AE9-4609D4386516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D08662C-5CE3-4A64-8E05-64FE944CF821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D08662C-5CE3-4A64-8E05-64FE944CF821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D08662C-5CE3-4A64-8E05-64FE944CF821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D08662C-5CE3-4A64-8E05-64FE944CF821}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

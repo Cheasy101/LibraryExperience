@@ -1,4 +1,4 @@
-namespace LibraryExperience;
+namespace LibraryExperience.Figures;
 
 public interface IShape
 {

@@ -1,3 +1,5 @@
+using LibraryExperience.Figures;
+
 namespace LibraryExperience;
 
 public static class ShapeAreaCalculator
